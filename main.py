@@ -455,21 +455,21 @@ Responsibilities:
 
     <div class="field">
       <label for="cv">Your CV / Resume</label>
-      <textarea id="cv" rows="13" placeholder="Paste your full CV text here...">JEREMIAH NGULI MATHEKA
-Nairobi, Kenya | github.com/bluprint023
+      <textarea id="cv" rows="13" placeholder="Paste your full CV text here...">Chaji Yengs
+Nairobi, Kenya | github.com/chudegenje112
 
 EDUCATION
-BSc Computer Science — JKUAT (2024)
-ALX Data Science Programme (2024)
-Cisco Certified Network Technician
+BSc Computer Science — UoN (2024)
+ALX Data Science Programme (2025)
+Cisco CCNA
 
 EXPERIENCE
-NOC Engineer Intern — WIOCC (Sep 2026 – Dec 2026)
-- Monitor SDH/DWDM optical infrastructure across East Africa
-- Fault management and incident escalation for undersea cable systems
+Full Stack Developer — Mboka Industries (Sep 2026 – Dec 2026)
+- Designed, developed and maintained websites.
+- Trained new users of said websites.
 
 PROJECTS
-PredX — EPL Match Outcome Predictor
+WekaKakitu — EPL Match Outcome Predictor
 - ML pipeline using scikit-learn, XGBoost, FastAPI
 - Automated API data ingestion from football statistics APIs
 
