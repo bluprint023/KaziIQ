@@ -9,7 +9,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
-from jarviscore import Mesh, 
+from jarviscore import Mesh 
 from jarviscore.profiles import AutoAgent
 
 # ─────────────────────────────────────────────
