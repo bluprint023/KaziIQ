@@ -1,0 +1,4 @@
+jarviscore-framework
+fastapi
+uvicorn[standard]
+pydantic
