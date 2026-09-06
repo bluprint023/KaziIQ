@@ -1,7 +1,7 @@
 # KaziIQ — Multi-Agent Career Intelligence
 
 A production multi-agent AI system for the East African job market.
-Built with **JarvisCore** + **Gemini 2.0 Flash** | Deployed on **Render.com**
+Built with **JarvisCore** + **Gemini 3.6 Flash** | Deployed on **Render.com**
 
 ## Architecture
 
@@ -16,7 +16,7 @@ Three agents run sequentially — each builds on the previous agent's output:
 ## Stack
 
 - **Agent Framework:** JarvisCore (`jarviscore-framework`)
-- **LLM:** Gemini 2.0 Flash via JarvisCore's Gemini adapter
+- **LLM:** Gemini 3.6 Flash via JarvisCore's Gemini adapter
 - **API:** FastAPI + Uvicorn
 - **Deployment:** Render.com (free tier)
 
@@ -37,4 +37,4 @@ Open http://localhost:8000
 | Variable | Value |
 |----------|-------|
 | `GEMINI_API_KEY` | Your Google AI Studio key |
-| `GEMINI_MODEL` | `gemini-2.0-flash` |
+| `GEMINI_MODEL` | `gemini-3.6-flash` |
