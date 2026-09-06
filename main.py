@@ -431,21 +431,21 @@ Responsibilities:
 
     <div class="field">
       <label for="cv">Your CV / Resume</label>
-      <textarea id="cv" rows="13" placeholder="Paste your full CV text here...">JEREMIAH NGULI MATHEKA
+      <textarea id="cv" rows="13" placeholder="Paste your full CV text here...">RAIA KAWAIDA
 Nairobi, Kenya | github.com/bluprint023
 
 EDUCATION
-BSc Computer Science — JKUAT (2024)
-ALX Data Science Programme (2024)
-Cisco Certified Network Technician
+BSc Computer Science — UoN (2024)
+Moringa Data Science Programme (2026)
+Cisco CCNA (2022)
 
 EXPERIENCE
-NOC Engineer Intern — WIOCC (Sep 2026 – Dec 2026)
-- Monitor SDH/DWDM optical infrastructure across East Africa
-- Fault management and incident escalation for undersea cable systems
+Full stack developer — ChapaKazi Inc (Sep 2025 – )
+- Designed, developed and maintained websites.
+- Trained users of these websites
 
 PROJECTS
-PredX — EPL Match Outcome Predictor
+Weka kakitu — EPL Match Outcome Predictor
 - ML pipeline using scikit-learn, XGBoost, FastAPI
 - Automated API data ingestion from football statistics APIs
 
@@ -459,7 +459,8 @@ JKUAT Multilingual Text Classifier
 
 SKILLS
 Python (pandas, scikit-learn, XGBoost, FastAPI), SQL, Power BI,
-Machine Learning, NLP, Network Monitoring</textarea>
+Machine Learning, NLP, Network Monitoring
+Teamwork, Leadership, Communication</textarea>
     </div>
 
     <button id="run-btn" onclick="runAnalysis()">
