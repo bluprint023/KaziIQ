@@ -23,7 +23,7 @@ Three agents run sequentially — each builds on the previous agent's output:
 ## Local Setup
 
 ```bash
-git clone https://github.com/ujenzitupu/kaziiq
+git clone https://github.com/bluprint023/kaziiq
 cd kaziiq
 pip install -r requirements.txt
 cp .env.example .env        # add your GEMINI_API_KEY
