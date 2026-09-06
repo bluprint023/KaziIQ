@@ -432,7 +432,7 @@ Responsibilities:
     <div class="field">
       <label for="cv">Your CV / Resume</label>
       <textarea id="cv" rows="13" placeholder="Paste your full CV text here...">RAIA KAWAIDA
-Nairobi, Kenya | github.com/bluprint023
+Nairobi, Kenya | github.com/vitumob026
 
 EDUCATION
 BSc Computer Science — UoN (2024)
